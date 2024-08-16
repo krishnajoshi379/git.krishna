@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "problem1": "c",
+        "lab_work_2_2": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
